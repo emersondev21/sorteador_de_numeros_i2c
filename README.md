@@ -39,6 +39,8 @@ Outro terminal → GND
 
 O botão funciona com o pull-up interno ativado. Não é necessário resistor externo.
 
+<img width="720" height="318" alt="image" src="https://github.com/user-attachments/assets/2855054d-3bf1-48cb-b942-b194702d0a03" />
+
 ### ⚙️ Funcionamento
 
 Ao ligar o Arduino, o LCD exibe uma mensagem inicial.
